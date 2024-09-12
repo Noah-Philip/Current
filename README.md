@@ -1,6 +1,6 @@
 # Current ~ International Transactions Made Easier.
 
-Our presentation at the final round of the PolyHack Global Hackathon can be found here: https://youtu.be/TFmj6vmyauw?feature=shared&t=8472
+Our presentation at the final round of the PolyHack Global Hackathon can be found here: youtu.be/TFmj6vmyauw?feature=shared&t=8472
 
 # Core Technical Implementation
 
